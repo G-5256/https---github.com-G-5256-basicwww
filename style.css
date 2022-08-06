@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+    
+    background-color: rgb(255, 208, 0);
+
+}
+
+.img-container{
+    width: 60%;
+    height: 60%;
+    background: url("img/2.png") center/cover fixed no-repeat;
+}
